@@ -1,5 +1,4 @@
-﻿The Project Gutenberg eBook of Christmas tales of Flanders, by Various
-André de
+The Project Gutenberg eBook of Christmas tales of Flanders, by André de Ridder
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -11,12 +10,13 @@ using this eBook.
 
 Title: Christmas tales of Flanders
 
-Author: Various André de
-        M. C. O. Morris
+Author: André de Ridder
 
-Illustrator: Ridder
+Illustrator: M. C. O. Morris
 
-Release Date: December 30, 2020 [eBook #64134]
+Illustrator: Jean de Bosschere
+
+Release Date: December 26, 2020 [eBook #64134]
 
 Language: English
 
